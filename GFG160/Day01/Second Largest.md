@@ -108,7 +108,7 @@ class GfG {
 > Time Complexity: O(2*n) = O(n), as we are traversing the array only once.<br>
 Auxiliary space: O(1), as no extra space is required.
 
-## Approach 02 [Expected Approach] One Pass Search - O(n) Time and O(1) Space
+## Approach 03 [Expected Approach] One Pass Search - O(n) Time and O(1) Space
 > The idea is to keep track of the largest and second largest element while traversing the array. Initialize largest and second largest with -1. Now, for any index i,
 - If arr[i] > largest, update second largest with largest and largest with arr[i].
 - Else If arr[i] < largest and arr[i] > second largest, update second largest with arr[i].
