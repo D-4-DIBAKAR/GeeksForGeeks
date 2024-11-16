@@ -2,17 +2,32 @@ package GFG160.Day02;
 
 //Move All Zeroes to End
 public class Solution {
+     // void pushZerosToEnd(int[] arr) {
+     // // code here
+     // int length = arr.length;
+     // int count = 0;
+     // for (int i = 0; i < length; i++) {
+     // if (arr[i] != 0) {
+     // arr[count++] = arr[i];
+     // }
+     // }
+     // while (count < length) {
+     // arr[count++] = 0;
+     // }
+     // }
+
      void pushZerosToEnd(int[] arr) {
-          // code here
-          int length = arr.length;
           int count = 0;
-          for (int i = 0; i < length; i++) {
+
+          for (int i = 0; i < arr.length; i++) {
+
                if (arr[i] != 0) {
-                    arr[count++] = arr[i];
+
+                    int temp = arr[i];
+                    arr[i] = arr[count];
+                    arr[count] = temp;
+                    count++;
                }
-          }
-          while (count < length) {
-               arr[count++] = 0;
           }
      }
 
