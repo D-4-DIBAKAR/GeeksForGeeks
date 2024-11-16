@@ -1,15 +1,9 @@
-<<<<<<< HEAD
-package Day01;
-//Second Largest
 
-class Solution {
-=======
 package GFG160.Day01;
 //Second Largest
 
 public class Solution {
 
->>>>>>> 10ad0e9
      public int getSecondLargest(int[] arr) {
           int first = Integer.MIN_VALUE;
           int second = Integer.MIN_VALUE;
@@ -31,16 +25,10 @@ public class Solution {
           int arrTwo[] = new int[] { 10, 5, 10 };
           int arrThree[] = new int[] { 10, 10, 10 };
           Solution obj = new Solution();
-<<<<<<< HEAD
-          System.out.println(obj.getSecondLargest(arrOne));
-          System.out.println(obj.getSecondLargest(arrTwo));
-          System.out.println(obj.getSecondLargest(arrThree));
-
-=======
 
           System.out.println(obj.getSecondLargest(arrOne));
           System.out.println(obj.getSecondLargest(arrTwo));
           System.out.println(obj.getSecondLargest(arrThree));
->>>>>>> 10ad0e9
+
      }
 }
