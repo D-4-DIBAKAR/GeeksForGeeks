@@ -1,4 +1,5 @@
-# GeeksForGeeks
+<h1 align="Center" style="font-size:40px;">GeeksForGeeks</h1>
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fd2a38d2-9c05-47d5-8a60-cadd94ac427c" alt="Course-Banner">
