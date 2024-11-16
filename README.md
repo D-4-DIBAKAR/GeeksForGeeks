@@ -1,10 +1,13 @@
 # GeeksForGeeks
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bc526377-c4ee-4bbf-999c-e1ce76d5dd48" alt="Course-Page-Banner">
 </p>
+
 # GFG 160 Series - Syllabus Progress Tracker
 
 ## Arrays
+
 - [x] Second Largest Element
 - [x] Move all Zeros to End
 - [ ] Reverse an Array
@@ -20,6 +23,7 @@
 - [ ] First Missing Positive
 
 ## String
+
 - [ ] String to Integer - Your Own atoi()
 - [ ] Add Two Binary Strings
 - [ ] Anagram Check
@@ -29,6 +33,7 @@
 - [ ] String Rotations of each other
 
 ## Sorting
+
 - [ ] Sort an array of 0s, 1s and 2s
 - [ ] Count Inversions
 - [ ] Merge Overlapping Intervals
@@ -38,6 +43,7 @@
 - [ ] Top K Frequent Elements
 
 ## Searching
+
 - [ ] Count Occurrences in a Sorted Array
 - [ ] Minimum in a Sorted and Rotated Array
 - [ ] Search in a Sorted and Rotated Array
@@ -48,6 +54,7 @@
 - [ ] Kth Missing Positive Number
 
 ## Matrix
+
 - [ ] Spiral Traversal
 - [ ] Rotate Matrix
 - [ ] Search in a sorted matrix
@@ -56,6 +63,7 @@
 - [ ] Set Matrix Zeroes
 
 ## Hashing
+
 - [ ] Pair with given sum - 2Sum
 - [ ] Count Pairs with given sum
 - [ ] Intersection of Two Sets
@@ -66,6 +74,7 @@
 - [ ] Count Subarrays with given XOR
 
 ## Two Pointer Technique
+
 - [ ] Check for Pair Sum in Sorted
 - [ ] Triplets in Sorted
 - [ ] Triplets in Unsorted
@@ -79,6 +88,7 @@
 - [ ] Container with most water
 
 ## Prefix Sum
+
 - [ ] Equilibrium Point
 - [ ] Longest Subarray with Given Sum
 - [ ] Longest Subarray with Equal No of 0s and 1s
@@ -86,6 +96,7 @@
 - [ ] Find Starting Petrol Pump for Circular Tour
 
 ## Linked List
+
 - [ ] Reverse a Linked List
 - [ ] Rotate a Linked List
 - [ ] Merge Two Sorted Lists
@@ -98,11 +109,13 @@
 - [ ] LRU Cache
 
 ## Backtracking
+
 - [ ] Permutations of a String
 - [ ] N Queens
 - [ ] Solve the Sudoku
 
 ## Tree
+
 - [ ] Level Order Traversal
 - [ ] Height of a Binary Tree
 - [ ] Diameter of a Tree
@@ -120,12 +133,14 @@
 - [ ] Serialize and Deserialize a Binary Tree
 
 ## Heap
+
 - [ ] K Largest Elements
 - [ ] K closest point to origin
 - [ ] Merge K Sorted Lists
 - [ ] Median of a Stream
 
 ## Stack
+
 - [ ] Valid Parentheses
 - [ ] Longest Valid Parentheses
 - [ ] Next Greater Element
@@ -137,10 +152,12 @@
 - [ ] Decode the String
 
 ## Queue and Deque
+
 - [ ] Sliding Window Maximum
 - [ ] Maximum score with jumps of at most length K
 
 ## Dynamic Programming
+
 - [ ] Longest Increasing Subsequence
 - [ ] Longest String Chain – Chain of words in an Array
 - [ ] Longest Common Subsequence
@@ -166,12 +183,14 @@
 - [ ] Word Break
 
 ## Greedy
+
 - [ ] Minimum Platforms
 - [ ] Weighted Job Scheduling
 - [ ] Job Sequencing
 - [ ] Maximize Partitions with Unique Characters
 
 ## Graph
+
 - [ ] DFS
 - [ ] BFS
 - [ ] Minimum time to Rot Oranges
@@ -191,14 +210,15 @@
 - [ ] Email Account Merging
 
 ## Tries
+
 - [ ] Implement Trie
 - [ ] Word Search
 - [ ] Maximum XOR of Two Numbers in an Array
 
 ## Bit Manipulation
+
 - [ ] Find the only repetitive element between 1 to N-1
 - [ ] Find the Missing Number
 - [ ] Unique Number 1
 - [ ] Unique Number 2
 - [ ] Unique Number 3
-
