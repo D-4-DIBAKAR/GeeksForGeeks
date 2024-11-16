@@ -1,4 +1,4 @@
-<h1 align="Center" style="font-size:40px;">GeeksForGeeks</h1>
+<h1 align="Center">GeeksForGeeks</h1>
 
 
 <p align="center">
@@ -6,9 +6,9 @@
 </p>
 
 
-# GFG 160 Series - Syllabus Progress Tracker
+<h1 align="Center">GFG 160 Series - Syllabus Progress Tracker</h1> 
 
-## Arrays
+## 01-Arrays
 
 - [x] Second Largest Element
 - [x] Move all Zeros to End
@@ -24,7 +24,7 @@
 - [ ] Maximum Sum Subarray in Circular
 - [ ] First Missing Positive
 
-## String
+## 02-String
 
 - [ ] String to Integer - Your Own atoi()
 - [ ] Add Two Binary Strings
@@ -34,7 +34,7 @@
 - [ ] Min Chars to Add for Palindrome
 - [ ] String Rotations of each other
 
-## Sorting
+## 03-Sorting
 
 - [ ] Sort an array of 0s, 1s and 2s
 - [ ] Count Inversions
@@ -44,7 +44,7 @@
 - [ ] Merge Two Sorted Arrays With Constant Extra Space
 - [ ] Top K Frequent Elements
 
-## Searching
+## 04-Searching
 
 - [ ] Count Occurrences in a Sorted Array
 - [ ] Minimum in a Sorted and Rotated Array
@@ -55,7 +55,7 @@
 - [ ] Allocate Minimum Pages
 - [ ] Kth Missing Positive Number
 
-## Matrix
+## 05-Matrix
 
 - [ ] Spiral Traversal
 - [ ] Rotate Matrix
@@ -64,7 +64,7 @@
 - [ ] Search in a row-wise and column-wise sorted
 - [ ] Set Matrix Zeroes
 
-## Hashing
+## 06-Hashing
 
 - [ ] Pair with given sum - 2Sum
 - [ ] Count Pairs with given sum
@@ -75,7 +75,7 @@
 - [ ] Count Subarrays with given sum
 - [ ] Count Subarrays with given XOR
 
-## Two Pointer Technique
+## 07-Two Pointer Technique
 
 - [ ] Check for Pair Sum in Sorted
 - [ ] Triplets in Sorted
@@ -89,7 +89,7 @@
 - [ ] Trapping Rain Water
 - [ ] Container with most water
 
-## Prefix Sum
+## 08-Prefix Sum
 
 - [ ] Equilibrium Point
 - [ ] Longest Subarray with Given Sum
@@ -97,7 +97,7 @@
 - [ ] Product of Array except Self
 - [ ] Find Starting Petrol Pump for Circular Tour
 
-## Linked List
+## 09-Linked List
 
 - [ ] Reverse a Linked List
 - [ ] Rotate a Linked List
@@ -110,13 +110,13 @@
 - [ ] Remove Cycle
 - [ ] LRU Cache
 
-## Backtracking
+## 10-Backtracking
 
 - [ ] Permutations of a String
 - [ ] N Queens
 - [ ] Solve the Sudoku
 
-## Tree
+## 11-Tree
 
 - [ ] Level Order Traversal
 - [ ] Height of a Binary Tree
@@ -134,14 +134,14 @@
 - [ ] LCA in BST
 - [ ] Serialize and Deserialize a Binary Tree
 
-## Heap
+## 12-Heap
 
 - [ ] K Largest Elements
 - [ ] K closest point to origin
 - [ ] Merge K Sorted Lists
 - [ ] Median of a Stream
 
-## Stack
+## 13-Stack
 
 - [ ] Valid Parentheses
 - [ ] Longest Valid Parentheses
@@ -153,12 +153,12 @@
 - [ ] Evaluate Reverse Polish Notation
 - [ ] Decode the String
 
-## Queue and Deque
+## 14-Queue and Deque
 
 - [ ] Sliding Window Maximum
 - [ ] Maximum score with jumps of at most length K
 
-## Dynamic Programming
+## 15-Dynamic Programming
 
 - [ ] Longest Increasing Subsequence
 - [ ] Longest String Chain – Chain of words in an Array
@@ -184,14 +184,14 @@
 - [ ] Boolean Parenthesization
 - [ ] Word Break
 
-## Greedy
+## 16-Greedy
 
 - [ ] Minimum Platforms
 - [ ] Weighted Job Scheduling
 - [ ] Job Sequencing
 - [ ] Maximize Partitions with Unique Characters
 
-## Graph
+## 17-Graph
 
 - [ ] DFS
 - [ ] BFS
@@ -211,13 +211,13 @@
 - [ ] Find the City With the Smallest Number of Neighbors at a Threshold Distance
 - [ ] Email Account Merging
 
-## Tries
+## 18-Tries
 
 - [ ] Implement Trie
 - [ ] Word Search
 - [ ] Maximum XOR of Two Numbers in an Array
 
-## Bit Manipulation
+## 19-Bit Manipulation
 
 - [ ] Find the only repetitive element between 1 to N-1
 - [ ] Find the Missing Number
