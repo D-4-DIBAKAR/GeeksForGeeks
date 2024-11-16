@@ -12,7 +12,7 @@
 
 - [x] Second Largest Element
 - [x] Move all Zeros to End
-- [ ] Reverse an Array
+- [x] Reverse an Array
 - [ ] Rotate an Array
 - [ ] Next Permutation
 - [ ] Majority Element II
