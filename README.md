@@ -6,7 +6,7 @@
 
 ## Arrays
 - [x] Second Largest Element
-- [ ] Move all Zeros to End
+- [x] Move all Zeros to End
 - [ ] Reverse an Array
 - [ ] Rotate an Array
 - [ ] Next Permutation
