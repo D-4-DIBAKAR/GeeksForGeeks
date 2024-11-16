@@ -1,8 +1,9 @@
 # GeeksForGeeks
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bc526377-c4ee-4bbf-999c-e1ce76d5dd48" alt="Course-Page-Banner">
+  <img src="https://github.com/user-attachments/assets/fd2a38d2-9c05-47d5-8a60-cadd94ac427c" alt="Course-Banner">
 </p>
+
 
 # GFG 160 Series - Syllabus Progress Tracker
 
