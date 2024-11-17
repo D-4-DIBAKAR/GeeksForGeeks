@@ -1,19 +1,17 @@
 <h1 align="Center">GeeksForGeeks</h1>
 
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fd2a38d2-9c05-47d5-8a60-cadd94ac427c" alt="Course-Banner">
 </p>
 
-
-<h1 align="Center">GFG 160 Series - Syllabus Progress Tracker</h1> 
+<h1 align="Center">GFG 160 Series - Syllabus Progress Tracker</h1>
 
 ## 01-Arrays
 
 - [x] Second Largest Element
 - [x] Move all Zeros to End
 - [x] Reverse an Array
-- [ ] Rotate an Array
+- [x] Rotate an Array
 - [ ] Next Permutation
 - [ ] Majority Element II
 - [ ] Stock Buy and Sell (With No Limit)
