@@ -11,7 +11,7 @@ public class Solution {
           if (d < 0) {
                d = d + len;
           }
-          reverse(arr, 0, d - 1);// [4,5,3,2,1]
+          reverse(arr, 0, d - 1);// [4,5,3,2,1] -> [5,4,3,2,1]
           reverse(arr, d, len - 1);// [4,5,1,2,3]
           reverse(arr, 0, len - 1);// [3, 4, 5, 1, 2]
 
