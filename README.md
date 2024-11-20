@@ -12,8 +12,8 @@
 - [x] Move all Zeros to End
 - [x] Reverse an Array
 - [x] Rotate an Array
-- [ ] Next Permutation
-- [ ] Majority Element II
+- [x] Next Permutation
+- [x] Majority Element II
 - [ ] Stock Buy and Sell (With No Limit)
 - [ ] Stock Buy and Sell (With One Limit)
 - [ ] Minimize the Heights
