@@ -16,7 +16,11 @@
 - [x] Majority Element II
 - [x] Stock Buy and Sell (With No Limit)
 - [x] Stock Buy and Sell (With One Limit)
+<<<<<<< HEAD
 - [x] Minimize the Heights
+=======
+- [ ] Minimize the Heights
+>>>>>>> e8d041e6c4fdadfa603f29903deefd914c30a5b7
 - [ ] Maximum Sum Subarray
 - [ ] Maximum Product Subarray
 - [ ] Maximum Sum Subarray in Circular
