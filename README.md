@@ -14,9 +14,9 @@
 - [x] Rotate an Array
 - [x] Next Permutation
 - [x] Majority Element II
-- [ ] Stock Buy and Sell (With No Limit)
-- [ ] Stock Buy and Sell (With One Limit)
-- [ ] Minimize the Heights
+- [x] Stock Buy and Sell (With No Limit)
+- [x] Stock Buy and Sell (With One Limit)
+- [x] Minimize the Heights
 - [ ] Maximum Sum Subarray
 - [ ] Maximum Product Subarray
 - [ ] Maximum Sum Subarray in Circular
