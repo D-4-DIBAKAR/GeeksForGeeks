@@ -17,9 +17,9 @@
 - [x] Stock Buy and Sell (With No Limit)
 - [x] Stock Buy and Sell (With One Limit)
 - [x] Minimize the Heights
-- [ ] Maximum Sum Subarray
-- [ ] Maximum Product Subarray
-- [ ] Maximum Sum Subarray in Circular
+- [x] Maximum Sum Subarray
+- [x] Maximum Product Subarray
+- [x] Maximum Sum Subarray in Circular
 - [ ] First Missing Positive
 
 ## 02-String
