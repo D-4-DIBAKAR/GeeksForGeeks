@@ -20,7 +20,7 @@
 - [x] Maximum Sum Subarray
 - [x] Maximum Product Subarray
 - [x] Maximum Sum Subarray in Circular
-- [ ] First Missing Positive
+- [X] First Missing Positive
 
 ## 02-String
 
