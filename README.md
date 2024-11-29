@@ -24,8 +24,8 @@
 
 ## 02-String
 
-- [ ] String to Integer - Your Own atoi()
-- [ ] Add Two Binary Strings
+- [x] String to Integer - Your Own atoi()
+- [x] Add Two Binary Strings
 - [ ] Anagram Check
 - [ ] First Non-Repeating Character
 - [ ] KMP Algorithm for Pattern Searching
