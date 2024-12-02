@@ -20,15 +20,15 @@
 - [x] Maximum Sum Subarray
 - [x] Maximum Product Subarray
 - [x] Maximum Sum Subarray in Circular
-- [ ] First Missing Positive
+- [x] First Missing Positive
 
 ## 02-String
 
-- [ ] String to Integer - Your Own atoi()
-- [ ] Add Two Binary Strings
-- [ ] Anagram Check
-- [ ] First Non-Repeating Character
-- [ ] KMP Algorithm for Pattern Searching
+- [x] String to Integer - Your Own atoi()
+- [x] Add Two Binary Strings
+- [x] Anagram Check
+- [x] First Non-Repeating Character
+- [x] KMP Algorithm for Pattern Searching
 - [ ] Min Chars to Add for Palindrome
 - [ ] String Rotations of each other
 
